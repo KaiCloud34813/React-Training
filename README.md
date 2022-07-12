@@ -1,0 +1,1 @@
+This application was made with the help of the wonderful Maximilian Schwarzmüller. Learned how to work with react components, event and passing props between parent and child. A work was made to display some charts based on some dummy data.
